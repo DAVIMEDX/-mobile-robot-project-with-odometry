@@ -1,0 +1,7 @@
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/picotool
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/picotoolTargets.cmake
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/picotoolTargets-release.cmake
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/picotoolConfig.cmake
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/enc_bootloader.elf
+/home/medx/Documentos/embeddedsystems/endproject/autocar/build/_deps/picotool/enc_bootloader_mbedtls.elf

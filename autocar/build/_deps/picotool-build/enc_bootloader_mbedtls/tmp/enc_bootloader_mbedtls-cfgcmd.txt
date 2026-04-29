@@ -1,0 +1,1 @@
+cmd='/home/medx/.pyenv/versions/3.10.13/lib/python3.10/site-packages/cmake/data/bin/cmake;-DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make;-DPICO_SDK_PATH:FILEPATH=/home/medx/Documentos/embeddedsystems/endproject/pico-sdk;-DUSE_PRECOMPILED:BOOL=true;-DUSE_MBEDTLS=1;-DPICO_DEBUG_INFO_IN_RELEASE=OFF;-GUnix Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'
